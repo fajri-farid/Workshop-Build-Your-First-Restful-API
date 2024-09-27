@@ -1,3 +1,5 @@
+# Inisialisasi Awal
+
 Ketika kamu ingin menjalankan code ini kamu harus menginstall packagenya dengan cara:
 ```bash
 npm i
