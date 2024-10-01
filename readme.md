@@ -25,6 +25,7 @@ Yang mana ini adalah project sederhana saja menggunakan:
 - expressjs
 
 Disini membuat restful api sederhana yaitu "notes-app" yang table nya itu isinya:
+- id
 - title
 - description
 - category (school, work, personal)
